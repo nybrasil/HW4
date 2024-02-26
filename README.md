@@ -22,7 +22,7 @@ As a coding boot camp student, you can use this application to take a timed quiz
 To run the application locally, follow these steps:
 
 1. Clone the repository:
-git clone git@github.com:nybrasil/HW4.git
+git clone [git@github.com/nybrasil/HW4.git]
 2. Navigate to the project directory:
 cd coding-quiz-challenge
 3. Open the `index.html` file in your preferred web browser.
@@ -36,7 +36,8 @@ cd coding-quiz-challenge
 - The quiz ends when all questions are answered or the timer reaches 0.
 - You can retake the quiz by refreshing the page.
 
-![alt text](assets/Screenshot%202024-02-25%20at%2010.48.34 PM.png)
+![alt text](image 
+
 
 ## License
 
