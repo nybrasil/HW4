@@ -36,7 +36,7 @@ cd coding-quiz-challenge
 - The quiz ends when all questions are answered or the timer reaches 0.
 - You can retake the quiz by refreshing the page.
 
-![alt](assets/image/Screenshot%202024-02-25%20at%2010.48.34 PM.png)
+![alt](assets/Screenshot%202024-02-25%20at%2010.48.34 PM.png)
 
 
 ## License
